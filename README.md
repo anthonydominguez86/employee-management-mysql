@@ -1,2 +1,2 @@
-# Employee Management MySQL
+# The Assignment: Employee Management MySQL
 An application to track employees by role and department. 
